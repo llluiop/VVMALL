@@ -104,26 +104,26 @@ body > div.images-slider {
     margin: 15.5% auto 0;
 }
 #fwslider .title {  /* Slider Title Style */
-	font-family: 'Open Sans', 'sans-serif';
+	font-family: 'Microsoft YaHei UI', 'Open Sans', 'sans-serif';
 	color: #fff;
-	font-size:4em;
-	padding:5px 20px 0;
+	font-size: 4em;
+	padding: 5px 20px 0;
 	font-style: normal;
 	font-weight: 400;
-	border:none;
-	text-align:left;
+	border: none;
+	text-align: left;
 }
 #fwslider .description { /* Slider Description Style */
-	font-family: 'Open Sans', 'sans-serif';
-    opacity: 0;
-    color:#ffffff;
-    font-size: 2em;
-    clear:both;
-   	text-align:left;
-   	margin-left: 2%;
+	font-family: 'Microsoft YaHei UI', 'Open Sans', 'sans-serif';
+	opacity: 0;
+	color: #ffffff;
+	font-size: 2em;
+	clear: both;
+	text-align: left;
+	margin-left: 2%;
 }
 #fwslider .description a {
-	font-family: 'Open Sans', 'sans-serif';
+	font-family: 'Microsoft YaHei UI', 'Open Sans', 'sans-serif';
 	color: #ffffff;
 	font-size: 0.8755em;
 	clear: both;
