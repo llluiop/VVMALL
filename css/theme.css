@@ -4,7 +4,7 @@ Author URL: http://w3layouts.com
 License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 */
-body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
+body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6, p{ font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;}
 .body{
 	font-family: 'Open Sans', 'sans-serif';
 }
@@ -333,7 +333,7 @@ button.close {
 }
 /*----start-footer---*/
 .grid p{
-	font-family: 'Open Sans', 'sans-serif';
+	font-family: "Microsoft YaHei", 'Open Sans', 'sans-serif';
 	line-height: 1.9em;
 }
 .grid1{
